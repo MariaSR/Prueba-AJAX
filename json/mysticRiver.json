@@ -1,0 +1,17 @@
+{
+    "Mystic River": {
+            "Título Original": "Mystic River",
+            "Director": "Clint Eastwood",
+            "Fecha": "2003",
+            "País": "Estados Unidos",
+            "Género":["Drama"],
+            "Duración": "137min",
+            "Guión": "Brian Helgelan",
+            "Música":"Clint Eastwood",
+            "Fotografía":"Tom Stern",
+            "Reparto": ["Sean Penn","Kevin Bacon","Tim Robbins","Laurence Fishburne","Laura Linney","Marcia Gay Harden"],
+            "Sinopsis":"Jimmy Markum, Dave Boyle y Sean Devine han crecido juntos en las calles de Boston. Los tres mantienen una gran relación desde hace mucho tiempo, debido principalmente a que han formado un vínculo muy especial con motivo de las numerosas experiencias que han compartido juntos. Todo hacía indicar que nada alteraría el curso de su amistad bajo ningún concepto, sobre todo teniendo en cuenta el compromiso y la dedicación que el grupo pone continuamente para que las cosas sigan yendo tan bien como al principio. Aunque la situación se complicará cuando Dave es secuestrado por un desconocido ante los ojos de sus camaradas, una cuestión que marcará significativamente el devenir de los sucesos durante el resto de la trama. Su complicidad juvenil no resiste semejante tesitura y sus caminos terminan por separarse definitivamente, sin que nadie pueda remediarlo o hacer nada al respecto.",
+            "img": "../img/mysticRiver.jpg"
+        
+    }
+}

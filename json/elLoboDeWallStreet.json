@@ -1,0 +1,17 @@
+{
+    "El lobo de Wall Street": {
+            "Título Original": "The Wolf of Wall Street",
+            "Director": "Martin Scorsese",
+            "Fecha": "2013",
+            "País": "Estados Unidos",
+            "Género":["Comedia Negra","Drama"],
+            "Duración": "180min",
+            "Guión": "Terence Winter",
+            "Música":"Howard Shore",
+            "Fotografía":"Rodrigo Prieto",
+            "Reparto": ["Leonardo DiCaprio","Jonah Hill","Margot Robbie","Matthew McConaughey","Kyle Chandler","Rob Reiner","Jon Bernthal","Jon Favreau","Joanna Lumley","Cristin Milioti","Shea Whigham"],
+            "Sinopsis":"La película cuenta la historia de un agente de bolsa de Nueva York, interpretado por DiCaprio, que se niega a cooperar en un caso de fraude de títulos que involucra la corrupción en Wall Street, el banco comercial e infiltración de la mafia.",
+            "img": "../img/elLoboDeWallStreet.jpg"
+        
+    }
+}

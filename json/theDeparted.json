@@ -1,0 +1,17 @@
+{
+    "Infiltrados": {
+            "Título Original": "The Departed",
+            "Director": "Martin Scorsese",
+            "Fecha": "2006",
+            "País": "Estados Unidos",
+            "Género":["Suspense","Drama"],
+            "Duración": "151min",
+            "Guión": "William Monahan",
+            "Música":"Harry Gregson-Williams",
+            "Fotografía":"Michael Ballhaus",
+            "Reparto": ["Leonardo DiCaprio","Matt Damon","Jack Nicholson","Vera Farmiga","Mark Wahlberg","Martin Sheen","Alec Baldwin","Jackie Earle Haley"],
+            "Sinopsis":"El Departamento de Policía de Massachussets se enfrenta a la mayor banda de crimen organizado de la ciudad de Boston. La estrategia consiste en acabar desde dentro con Frank Costello, el poderoso jefe de la mafia irlandesa (Jack Nicholson). El encargado de infiltrarse en la banda es un joven novato, Billy Costigan (Leonardo DiCaprio). Mientras Billy intenta ganarse la confianza de Costello, otro joven policía, Colin Sullivan (Matt Damon), sube rápidamente de categoría y ocupa un puesto en la unidad de Investigaciones Especiales, grupo de élite cuya misión también es acabar con Costello. Lo que nadie sabe es que Colin es un topo infiltrado en la policía por el propio Costello.",
+            "img": "../img/theDeparted.jpg"
+        
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Training Day": {
+            "Título Original": "Training Day",
+            "Director": "Antoine Fuqua",
+            "Fecha": "2001",
+            "País": "Estados Unidos",
+            "Género":["Thriller","Drama"],
+            "Duración": "122min",
+            "Guión": "David Ayer",
+            "Música":"Mark Mancina",
+            "Fotografía":"Mauro Fiore",
+            "Reparto": ["Denzel Washington","Ethan Hawke","Scott Glenn","Tom Berenger","Harris Yulin","Raymond J. Barry","Cliff Curtis","Snoop Dogg"],
+            "Sinopsis":"Todos los días, en las calles de las zonas urbanas deprimidas de los Estados Unidos se libra una guerra; una guerra entre residentes, traficantes de droga y los que han jurado proteger a unos de los otros. Esta guerra tiene sus víctimas y sus verdugos, y una de sus figuras más importantes es el sargento Alonzo Harris, un agente de narcóticos con 13 años de experiencia cuyos discutibles métodos hacen difusa la línea entre la legalidad y la corrupción. Jake Hoyt, un joven policía recién asignado a narcóticos, comienza sus rondas a las órdenes de Alonzo para aprender de él.",
+            "img": "../img/trainingDay.jpg"
+        
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Shutter Island": {
+            "Título Original": "Shutter Island",
+            "Director": "Martin Scorsese",
+            "Fecha": "2010",
+            "País": "Estados Unidos",
+            "Género":["Thriller psicológico"],
+            "Duración": "138min",
+            "Guión": "Laeta Kalogridis",
+            "Música":"Gustav Mahler",
+            "Fotografía":"Robert Richardson",
+            "Reparto": ["Leonardo DiCaprio","Mark Ruffalo","Ben Kingsley","Max von Sydow","Michelle Williams","Emily Mortimer","Patricia Clarkson","Jackie Earle Haley","Ted Levine","John Carroll Lynch","Elias Koteas"],
+            "Sinopsis":"La historia cuenta la investigación de dos agentes federales enviados a una institución mental llamada Shutter Island, con el fin de buscar a Rachel Solando, una paciente psicótica que ha escapado misteriosamente de su celda. Daniels (DiCaprio) tiene además en su mente los recuerdos del campo de concentración de Dachau.",
+            "img": "../img/shutterIsland.jpg"
+        
+    }
+}
